@@ -1,6 +1,5 @@
 # pick_icon
-
-A new Flutter project.
+![](images/finalImg.png)
 
 ## Getting Started
 
